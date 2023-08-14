@@ -11,7 +11,7 @@ In this implementation, we'll follow these steps:
 
     Iteration: Repeatedly perform assignment and centroid update until convergence or a maximum number of iterations.
     
-    # Conclusion
+# Conclusion
 
 This K-Means Clustering implementation provides hands-on experience with the algorithm's core concepts. By running the provided script and adapting it to your data, you can perform unsupervised clustering to group similar data points together.
 
